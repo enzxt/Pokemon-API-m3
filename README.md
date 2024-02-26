@@ -25,7 +25,6 @@
 ## Screencast
 - https://www.loom.com/share/0bf49f98fbd34de581065d58c12d18db?sid=c193e16a-ccf1-4a11-a980-66739d85f974
 ## Git Repo
-- https://github.com/enzxt/Mile3/tree/main/Mile3
-- uploading this repo was so annoying and I couldn't make it word without uploading my entire vscode folder.... so fun
+- https://github.com/enzxt/Mile3
 ## References
 - none 
