@@ -3,19 +3,19 @@
 ### 2/25/2024
 
 ### Create
-!["create"](../Mile3/image/first.png)
+!["create"](/image/first.png)
 - Create operation works great, creating any pokemon I add into the body as json text.
 
 ### Read
-!["second"](../Mile3/image/second.png)
+!["second"](/image/second.png)
 - Read operation works perfectly, getting all pokemon from the database.
 
 ### Update
-!["third"](../Mile3/image/third.png)
+!["third"](/image/third.png)
 - So my update function is broken, I can’t figure it out but I am going to fix it and resubmit if I have to.
 
 ### Delete
-!["fourth"](../Mile3/image/fourth.png)
+!["fourth"](/image/fourth.png)
 - Delete Query works perfectly, deleting any pokemon in my database with a specific id, specified at the end of the request.
 
 ## Challenges
